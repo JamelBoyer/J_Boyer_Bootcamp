@@ -22,7 +22,7 @@ This assignment will challenge you to polish your FinTech research skills by acc
 
 ## Instructions
 
-### 1. Choose a FinTech domain that you find relevant or interesting.
+### 1. Choose a FinTech domain that you find relevant or interesting
 
 **Note:** We covered a number of FinTech domains in class this week. If you already have a company in mind that you want to research, skip ahead to Step 3.
 
@@ -54,7 +54,7 @@ This assignment will challenge you to polish your FinTech research skills by acc
 
 Remember that because FinTech is an evolving field, different FinTech reports may use different names and definitions for various domains and sectors (e.g., CB Insights, Investopedia, Accenture). In addition, you may come across lists of FinTech domains online that are either longer or shorter than the list above; there is no one comprehensive list.
 
-### 2. Choose a company (or project) within  your chosen Fintech domain.
+### 2. Choose a company (or project) within  your chosen Fintech domain
 
 Use online research to identify the trends in your domain, and choose a company that is successful or otherwise interesting to you. For example, if you chose Wealth Management, you may want to look at online journals, periodicals, reports, and websites about the future of Wealth Management, or how FinTech is changing or disrupting Wealth Management.
 
@@ -66,7 +66,7 @@ Your company could be:
 
 * A smaller start-up that is not yet wildly successful, but that you find promising and interesting. This may include a FinTech company in your local area or a company with a new idea that you would like to learn more about.
 
-### 3. Conduct your research, using the case study template as a guide.
+### 3. Conduct your research, using the case study template as a guide
 
 We recommend that you use the case study template below in order to focus your research. You may lengthen, shorten, or––if necessary––remove sections from the template to accommodate the information available about your company.
 
@@ -129,14 +129,13 @@ What solution does this company offer that their competitors do not or cannot of
 * Why are these technologies appropriate for your solution?
 ```
 
-### 4. Write the case study.
+### 4. Write the case study
 
 Write the finished case study report in a markdown `README.md` file, using the above case study template. Your report should be sufficiently long to ensure you provide all relevant information about the company or project in a thorough manner.
 
 Be sure to cite your sources in an addendum at the end of the report. List all websites, podcasts, blogs, or articles that you consulted in order to write the report, and provide links. Your list should be thorough and account for all sources you used, but it does not need to be a formal works cited page.
 
-
-### 5. Upload your case study to your git repository.
+### 5. Upload your case study to your git repository
 
 You learned some technical aspects of FinTech this week, including how to set up and populate a git repository. As a final step, take your finished case study and upload it to a repository to share with your instructor and class.
 
@@ -213,11 +212,12 @@ As you research your company, you may find these types resources to be useful:
 * Submit the link to your GitHub repository to Bootcamp Spot.
 
 ---
+
 ### Requirements
 
 #### Company Information and Business Activities  (25 points)
 
-##### To receive all points, you must:
+##### To receive all points, you must
 
 * Select a company in the FinTech domain to research. (5 points)
 * Provide a detailed description of the company's domain, audience, solution and business metrics. (10 points)
@@ -225,28 +225,28 @@ As you research your company, you may find these types resources to be useful:
 
 #### FinTech Domain Trends (20 points)
 
-##### To receive all points, your code must:
+##### To receive all points, your code must
 
 * Communicate a thorough synopsis of trends and landmarks in the chosen FinTech domain. (10 points)
 * Identify several major competitors. (10 points)
 
 #### Research Depth (15 points)
 
-##### To receive all points, your code must:
+##### To receive all points, your code must
 
 * Use multiple sources to present a thorough and cohesive view of the company's domain, history and results. (5 points)
 * Specifically quote sources and reference them clearly and accurately. (10 points)
 
 #### Recommendations (20 points)
 
-##### To receive all points, your code must:
+##### To receive all points, your code must
 
 * Thoroughly explain company recommendations. (10 points)
 * Base company recommendations in solid research. (10 points)
 
 #### Report Presentation (20 points)
 
-##### To receive all points, your report must include:
+##### To receive all points, your report must include
 
 * Present the report in a ReadME.md file in a Github repository. (10 points)
 * The report style showcases the writer's expertise and builds credibility. (10 points)
