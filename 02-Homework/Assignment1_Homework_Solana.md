@@ -77,10 +77,31 @@ Time discrepancies, timestamps, and more nodes validating transactions slow down
 ![SOL Ecosystem](https://imgs.search.brave.com/Dv8SjbakMHu4IKeTgBUc33WMOKAbcme_BozYcpOul8E/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5x/VzM2STBkVlJqQXlO/NzhZNC1jZlhRSGFF/SyZwaWQ9QXBp)
 
 <!-- Horizontal Rule -->
-
 ---
 
+## Competitors
 
+<!-- UL -->
 
+* Eth (slow transaction speeds)
+* Avalanche (AVAX) – older application not as profitable
+* Terra (Luna) - SOL is ten times faster
+* Fantom (FTM) - lost its chief developer Andre Cronje
 
+<!-- Italics -->
+*Aside from Luna’s incredible yield, SOL outperforms them all.*
+
+<!-- Horizontal Rule -->
+---
+
+<!-- Headings -->
+## SOL Stumbles?
+
+Over the past year, the block chain has been down four times as a result of someone spamming transactions (DDoS attack). Then there is the Wormhole attack. An attacker created false instructions using open-source code about the operation of transfers with Eth. The attacker stole in excess of 300m in crypto but received 10m from SOL and returned the money. The business almost got destroyed.
+
+<!-- Horizontal Rule -->
+---
+
+<!-- Headings -->
+# Recommendations
 
