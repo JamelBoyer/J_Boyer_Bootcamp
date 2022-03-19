@@ -38,7 +38,7 @@ Time discrepancies, timestamps, and more nodes validating transactions slow down
 ![alt text](https://imgs.search.brave.com/Qw-kTuUu5oxWIH51Jq65ajErk3P7WwYErtQKI89gcnE/rs:fit:1000:557:1/g:ce/aHR0cHM6Ly9zb2xh/bmEuYmxvZy93cC1j/b250ZW50L3VwbG9h/ZHMvc2l0ZXMvOC8y/MDIwLzA0L1BvSC0x/LnBuZw)
 
 <!-- Links -->
-[Video: Proof of History](https://www.youtube.com/watch?v=GU4igNeYr-Q)
+[Proof of History, further analysis](https://www.youtube.com/watch?v=GU4igNeYr-Q)
 
 <!-- Horizontal Rule -->
 
@@ -53,7 +53,7 @@ Time discrepancies, timestamps, and more nodes validating transactions slow down
 * Inflation: SOL has an initial inflation rate of 8% - descends yearly into a long-term outlook of 1.5%.
 
 <!-- Links -->
-[Video: SOL a Good Investment?](https://solberginvest.com/blog/is-solana-a-good-investment/)
+[Tokenomics, closer inspection](https://solberginvest.com/blog/is-solana-a-good-investment/)
 
 <!-- Horizontal Rule -->
 
@@ -103,5 +103,30 @@ Over the past year, the block chain has been down four times as a result of some
 ---
 
 <!-- Headings -->
-# Recommendations
+## Recommendations
 
+<!-- Task Lists -->
+* [x] Find a way to close the gap between decentralization and centralization. People can hardly install an Apple update.
+
+* [x] Require a cryptographic signature for certain programming documents. Have the SOL community validate that this is a trusted person.
+
+* [x] You need a PHD in Finance to understand the lending protocols. Take a page from Yearn Finance which generates yield for customers by moving their money based on opportunities in the market.
+
+* [x] Remove p2p transaction fees like NANO.
+
+<!-- Horizontal Rule -->
+---
+
+## References
+
+<!-- UL -->
+<!-- Links -->
+* [Is SOL the Ethereum Killer? w/ Anatoly Yakovenko](https://www.youtube.com/watch?v=qYH6J4sE7hs)
+* [Crypto Potato](https://cryptopotato.com/solana-network-suffers-another-reported-ddos-attack/)
+* [Gemini](https://www.gemini.com/cryptopedia/solana-blockchain#section-native-scalability-of-the-solana-blockchain)
+* [Defiprime](https://defiprime.com/solana)
+* [Academy Moralis](https://academy.moralis.io/blog/exploring-the-solana-ecosystem-and-solana-apps)
+* [Trading View](https://www.tradingview.com/symbols/SOLUSD/history-timeline/#new-kid-on-the-block-2021-05-25)
+* [Grow Jo](https://growjo.com/company/Solana)
+* [Forbes](https://www.forbes.com/forbes/2009/0112/056.html?sh=4e1d358c7cc7)
+* [NASDAQ](https://www.nasdaq.com)
