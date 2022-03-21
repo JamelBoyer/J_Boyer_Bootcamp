@@ -1,0 +1,9 @@
+original_price = 198.87
+current_price = 254.32
+Increase = original_price-current_price
+percent_increase = Increase / original_price x 100
+print original_price`, `current_price`, and `percent_increase` 
+cd ../
+pwd
+ls
+
