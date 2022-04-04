@@ -100,6 +100,8 @@ print(f"BirthYear: {birth_year}")
 
 # Create and print a variable, `statement_one`, by assigning it a value of a concatenated string:
 # "Programmers: Ada Lovelace is a British Computer Programmer born in 1815."
+statement_one = "Programmers: Ada Lovelace is a British Computer Programmer born in 1815."
+print(statement_one)
 
 
 # Create and print a variable, `statement_two`, by assigning it a value of a concatenated string:
