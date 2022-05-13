@@ -19,7 +19,7 @@ To install PyViz and its dependencies in your Conda `dev` environment, complete 
 2. Install the PyViz packages by using the `conda install` command as follows:
 
 ```shell
-conda install -c pyviz hvplot geoviews
+8
 ```
 
 > **Note** For some installations, you might get a message indicating that the requested packages are already installed. This is fine&mdash;Conda automatically installs the software dependencies that these libraries require.
