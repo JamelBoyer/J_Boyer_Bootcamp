@@ -19,6 +19,8 @@ import streamlit as st
 # Step 1:
 # Create a function to hash an input value.
 
+@dataclass
+
 # To do so, define a function named
 # `hash_data` that accepts user input, encodes that input, and returns a hash
 # of the data.
@@ -32,7 +34,8 @@ import streamlit as st
 
 # @TODO:
 # Instantiate an instance of hashlib's `sha256` function
-sha =  # YOUR CODE HERE!
+sha = hashlib.sha256()
+ 
 
 # @TODO:
 # Use the `encode` function to encode the string version of the data that
@@ -63,7 +66,7 @@ st.markdown("# Create a Unique Hash of Data")
 # Add a Streamlit `text_area` component to accept data from the user
 # Be sure to convert the input data to a string
 # Use the `encode` function to encode the input data
-input_data =  # YOUR CODE HERE!
+input_data =  st.text_area("Enter Data")
 
 # @TODO:
 # Use the Streamlit `write` function to display the length (`len`) of the input
