@@ -39,3 +39,20 @@ class PyChain:
 
     def add_block(self, block):
         self.chain += [block]
+
+
+
+    def proof_of_work(self, block):
+
+        calculated_hash = block.hash_block()
+
+        num_of_zeros = "0" * self.difficulty
+
+        while not calculated_hash.startswith(num_of_zeros):
+
+            block.nonce += 1
+
+            calculated_hash = block.hash_block()
+
+        print("Wining Hash", calculated_hash)
+        return block

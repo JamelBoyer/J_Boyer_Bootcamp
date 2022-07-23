@@ -74,13 +74,20 @@ class PyChain:
         # Step 1:
         # Write the code that validates the integrity of the PyChain by
         # comparing the calculated hash code of each block to the `prev_hash`
-        # value contained in the following block.
+        block_hash = self.chain[0].hash_block()
 
         # @TODO:
         # Add the code to generate the hash of the first block in the chain.
         # Set the hash equal to a variable called block_hash
         # Hint - The first block in the chain is at index position 0.
-        # YOUR CODE HERE
+      
+        for block in self.chain[1:]:
+            if block_hash != block.prev_hash:
+                print("Blockchain is invalid!")
+                return False
+
+            block_hash = block.hash_block()
+
 
         # @TODO:
         # Create a for-loop to access the remainder of the blocks in the
